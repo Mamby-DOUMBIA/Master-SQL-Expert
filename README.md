@@ -152,9 +152,8 @@ sql-mastery/
 ### 1. Cloner le repo
 
 ```bash
-git clone https://github.com/Mamby-DOUMBIA/Cours-Complet-SQL
-.git
-cd sql-mastery
+git clone https://github.com/Mamby-DOUMBIA/Cours-Complet-SQL.git
+cd Cours-Complet-SQ
 ```
 
 ### 2. Initialiser la base de données E-Commerce (MySQL)
