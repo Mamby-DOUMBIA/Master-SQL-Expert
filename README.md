@@ -153,7 +153,7 @@ sql-mastery/
 
 ```bash
 git clone https://github.com/Mamby-DOUMBIA/Cours-Complet-SQL.git
-cd Cours-Complet-SQ
+cd Cours-Complet-SQL
 ```
 
 ### 2. Initialiser la base de données E-Commerce (MySQL)
